@@ -1,1 +1,1 @@
-place your category2 masks here
+Place your category_2 masks here
