@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec5062ca-1630-4286-8e61-eb9a89c0390d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XVGpLhojM9QBz8fsZ3RSigUIRP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/create_info.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.update_mask_definitions">
+    <configuration name="create_info" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="merge_masks" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/merge_masks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="update_mask_definitions" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/update_mask_definitions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.update_mask_definitions" />
+      <item itemvalue="Python.merge_masks" />
+      <item itemvalue="Python.create_info" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec5062ca-1630-4286-8e61-eb9a89c0390d" name="Default Changelist" comment="" />
+      <created>1581124029201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581124029201</updated>
+      <workItem from="1581124039644" duration="47995000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2218" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581216807504">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2218" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1581216807504" />
+    <state x="396" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053/1920.0.1680.1050@67.27.1853.1053" timestamp="1581180462683" />
+    <state x="3101" y="253" key="#xdebugger.evaluate" timestamp="1581209964387">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="3101" y="253" key="#xdebugger.evaluate/67.27.1853.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1581209964387" />
+    <state x="2543" y="282" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581216798580">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2543" y="282" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1581216798580" />
+    <state x="754" y="310" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1680.1050@67.27.1853.1053" timestamp="1581180455216" />
+    <state width="1634" height="342" key="GridCell.Tab.0.bottom" timestamp="1581211010601">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1581211010601" />
+    <state width="1634" height="342" key="GridCell.Tab.0.center" timestamp="1581211010600">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1581211010600" />
+    <state width="1634" height="342" key="GridCell.Tab.0.left" timestamp="1581211010600">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1581211010600" />
+    <state width="1634" height="342" key="GridCell.Tab.0.right" timestamp="1581211010601">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1581211010601" />
+    <state width="1634" height="342" key="GridCell.Tab.1.bottom" timestamp="1581211010601">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1581211010601" />
+    <state width="1634" height="342" key="GridCell.Tab.1.center" timestamp="1581211010601">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1581211010601" />
+    <state width="1634" height="342" key="GridCell.Tab.1.left" timestamp="1581211010601">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1581211010601" />
+    <state width="1634" height="342" key="GridCell.Tab.1.right" timestamp="1581211010601">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1581211010601" />
+    <state x="2290" y="178" key="SettingsEditor" timestamp="1581199072484">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2290" y="178" key="SettingsEditor/67.27.1853.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1581199072484" />
+    <state width="840" height="526" key="XDebugger.FullValuePopup" timestamp="1581193861373">
+      <screen x="1920" y="0" width="1680" height="1050" />
+    </state>
+    <state width="840" height="526" key="XDebugger.FullValuePopup/67.27.1853.1053/1920.0.1680.1050@1920.0.1680.1050" timestamp="1581193861373" />
+    <state width="927" height="528" key="XDebugger.FullValuePopup/67.27.1853.1053/1920.0.1680.1050@67.27.1853.1053" timestamp="1581187832466" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_project$merge_masks.coverage" NAME="merge_masks Coverage Results" MODIFIED="1581210572498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
