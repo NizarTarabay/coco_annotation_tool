@@ -67,7 +67,7 @@ dataset_info['license'] = image_license
 
 # Write the JSON output file
 output_file_path = Path(os.path.join(os.path.split(prj_dir)[0],
-                                     'images/masks_ctr/masks/info')) / 'dataset_info.json'
+                                     'images/masks_ctr/masks')) / 'dataset_info.json'
 with open(output_file_path, 'w+') as json_file:
     json_file.write(json.dumps(dataset_info))
 
