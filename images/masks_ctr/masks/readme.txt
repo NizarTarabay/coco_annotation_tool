@@ -1,3 +1,2 @@
-image masks are generated here
-
-
+Masks are generated here
+Json files are generated here
