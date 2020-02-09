@@ -1,6 +1,24 @@
-# Author: NizarTarabay
-# Github:
-# Licesnce: MIT
+# MIT License
+
+# Copyright (c) 2020 NizarTarabay
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
 """
 -This code is a prerequisite to build the coco_format data set.
 -This code extract colors from png images that represent masks.
@@ -69,11 +87,11 @@ masks_spr_ctrs_path = [f.path for f in os.scandir(masks_dir)
 spr_ctrs = [os.path.split(dir)[1] for dir in masks_spr_ctrs_path
             if os.path.split(dir)[1] != 'masks']  # returns the super categories list
 
-######################################################################
-# extract the super categories from the directory that the author made
-# and populate the super categories dict accordingly
-# following the mask definition format
-######################################################################
+#######################################################################
+# extract the super categories from the directory that the author made#
+# and populate the super categories dict accordingly                  #
+# following the mask definition format                                #
+#######################################################################
 
 categories = {}
 for spr_ctr in spr_ctrs:
@@ -84,7 +102,7 @@ for spr_ctr in spr_ctrs:
     categories[spr_ctr] = ctrs
 
 ######################################################################
-# populate mask_definition dictionary
+#                 populate mask_definition dictionary                #
 ######################################################################
 mask_definitions = {'masks': {}, 'super_categories': categories}
 
@@ -113,9 +131,9 @@ for spr_ctr in spr_ctrs:  # iterates in the super categories folders
                                                        'super_category': spr_ctr}  # populate the entire dictionary
 
 
-###################################
-# save mask_definitions json file #
-###################################
+######################################################################
+#                 save mask_definitions json file                    #
+######################################################################
 with open(os.path.join(os.path.split(prj_dir)[0],
                        'images/masks_ctr/masks/mask_definitions.json'),
           'w') as fp:
