@@ -14,7 +14,7 @@ In order to use this repository you need an image editing app such as: GIMP (fre
 
 ./images/masks_ctr/super_category_1: This is a subdirectory that you have created for your super category. Simply create folders for your categories inside it.
 
-./images/masks_ctr/super_category_1/category_1: Contains masks for category_1. Each image should have only one mask that represent all the objects inside the image that belongs to category_1. You can create more categories by creating more folders and place your masks inside.
+./images/masks_ctr/super_category_1/category_1: Contains masks for category_1. Each image should have only one mask that represent all the objects inside the image that belong to category_1. You can create more categories by creating more folders and place your masks inside.
 
 ./images/masks_ctr/masks: Contains your final masks. One mask per image. Each mask contains all the object. Also, it contains three diffrent json file: 
 #### dataset_info.json, mask_definitions.json, coco_instances.json.
@@ -25,7 +25,7 @@ In order to use this repository you need an image editing app such as: GIMP (fre
 Use your favorite image editing tool that support transparency layers to create your masks. GIMP is free and easy to use.
 Load your image to your editing tool. Create transparent layers according to the number of categories that you have in the image.
 
-On each layer draw above your objects that belongs to the same categoy assigned to this layer (make sure to use ddifferent colors for each object and categories)
+On each layer draw above your objects that belong to the same categoy assigned to this layer (make sure to use ddifferent colors for each object and categories)
 
 Save as name_of_the_image.PNG each layer in ./images/masks_ctr/super_category_1/category_X. Make sure that the background of the mask in transparent. Keep the name of all your saved masks as the name of your original RGB image.
 After you finish annotating your images go to step 4
